@@ -37,6 +37,15 @@ position: absolute;
   transform: translate(-50%, -50%);
 	
 }
+.para{
+	font-size:18px;
+	color:white;
+	position: absolute;
+	top: 38%;
+  left:0%;
+	right:0%;
+  font-family:cursive;
+}
 /* THE ROUND PSEUDO-ELEMENT HOVER STYLES */
 main{
 	text-align:center;
