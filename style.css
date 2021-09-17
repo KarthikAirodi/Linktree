@@ -1,0 +1,199 @@
+canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}a {
+		color: #100;
+		text-decoration: none;
+		text-transform: uppercase;
+		font-family: Helvetica;
+}
+span {
+		font-size: 20px;
+}
+header {
+	margin-top:-16px;
+	
+}
+.round{
+	text-align:center;
+}
+img{
+	border-radius: 50%;
+	position: absolute;
+  top: 15%;
+  left: 49.5%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+h1 {
+	font-family:Lucida Handwriting;
+	font-size:30px;
+	color:white;
+position: absolute;
+  top: 32%;
+  left: 49.5%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+	
+}
+.para{
+	font-size:18px;
+	color:white;
+	position: absolute;
+	top: 38%;
+  left: 33%;
+  font-family:Lucida Handwriting;
+}
+
+/* THE ROUND PSEUDO-ELEMENT HOVER STYLES */
+main{
+	text-align:center;
+}
+.round,
+.svg,
+.highlight {
+		max-width: 960px;
+		margin:0 auto;
+}
+
+.round a {
+		color: crimson;
+		
+}
+
+.round .buttonyt {
+		display: inline-block;
+		width: 130px;
+		height: 40px;
+		line-height: 40px;
+		margin: 20px;
+		position: relative;
+		overflow: hidden;
+		border: 2px solid crimson;
+		transition: color .5s;
+		position: absolute;
+  top: 49%;
+  left: 48%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+		
+}
+
+.round .buttonyt:before {
+		content: "";
+		position: absolute;
+		z-index: -1;
+		background: crimson;
+		height: 150px;
+		width: 200px;
+		border-radius: 50%;
+}
+
+.round .buttonyt:hover {
+		color: #fff;
+}
+
+.round .buttonyt:before {
+		top: 100%;
+		left: 100%;
+		 position: absolute;
+ 
+		transition: all .7s;
+}
+
+.round .buttonyt:hover:before {
+		top: -30px;
+		left: -30px;
+}
+.round .buttonfb {
+		display: inline-block;
+		width: 130px;
+		height: 40px;
+		line-height: 40px;
+		margin: 20px;
+		position: relative;
+		overflow: hidden;
+		border: 2px solid crimson;
+		transition: color .5s;
+		position: absolute;
+  top: 62%;
+  left: 48%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+		
+}
+
+.round .buttonfb:before {
+		content: "";
+		position: absolute;
+		z-index: -1;
+		background: crimson;
+		height: 150px;
+		width: 200px;
+		border-radius: 50%;
+}
+
+.round .buttonfb:hover {
+		color: #fff;
+}
+
+.round .buttonfb:before {
+		top: 100%;
+		left: 100%;
+		 position: absolute;
+ 
+		transition: all .7s;
+}
+
+.round .buttonfb:hover:before {
+		top: -30px;
+		left: -30px;
+}
+.round .buttonli {
+		display: inline-block;
+		width: 130px;
+		height: 40px;
+		line-height: 40px;
+		margin: 20px;
+		position: relative;
+		overflow: hidden;
+		border: 2px solid crimson;
+		transition: color .5s;
+		position: absolute;
+  top: 75%;
+  left: 48%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+		
+}
+
+.round .buttonli:before {
+		content: "";
+		position: absolute;
+		z-index: -1;
+		background: crimson;
+		height: 150px;
+		width: 200px;
+		border-radius: 50%;
+}
+
+.round .buttonli:hover {
+		color: #fff;
+}
+
+.round .buttonli:before {
+		top: 100%;
+		left: 100%;
+		 position: absolute;
+ 
+		transition: all .7s;
+}
+
+.round .buttonli:hover:before {
+		top: -30px;
+		left: -30px;
+}
+
+
+
