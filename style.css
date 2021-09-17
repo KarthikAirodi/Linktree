@@ -42,7 +42,8 @@ position: absolute;
 	color:white;
 	position: absolute;
 	top: 38%;
-  left: 43.5%;
+  left:0;
+	right:0;
   font-family:Lucida Handwriting;
 }
 
