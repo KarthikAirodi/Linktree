@@ -75,7 +75,8 @@ main{
 		transition: color .5s;
 		position: absolute;
   top: 49%;
-  left: 48%;
+  left: 0%;
+	right:0%
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 		
@@ -119,7 +120,8 @@ main{
 		transition: color .5s;
 		position: absolute;
   top: 62%;
-  left: 48%;
+  left: 0%;
+	right:0%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 		
@@ -163,7 +165,8 @@ main{
 		transition: color .5s;
 		position: absolute;
   top: 75%;
-  left:48%;
+  left:0%;
+	right:0%;
 -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 		
