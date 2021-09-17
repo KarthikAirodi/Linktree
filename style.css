@@ -27,7 +27,7 @@ img{
   transform: translate(-50%, -50%);
 }
 h1 {
-	font-family:Lucida Handwriting;
+	font-family:cursive;
 	font-size:30px;
 	color:white;
 position: absolute;
@@ -44,7 +44,7 @@ position: absolute;
 	top: 38%;
   left:0;
 	right:0;
-  font-family:Lucida Handwriting;
+  font-family:cursive;
 }
 
 /* THE ROUND PSEUDO-ELEMENT HOVER STYLES */
